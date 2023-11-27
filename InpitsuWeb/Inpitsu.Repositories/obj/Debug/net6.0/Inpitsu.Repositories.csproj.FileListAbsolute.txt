@@ -1,0 +1,38 @@
+C:\Users\a.zakarin\Desktop\CRM\InpitsuWeb\Inpitsu.Repositories\bin\Debug\net6.0\Inpitsu.Repositories.deps.json
+C:\Users\a.zakarin\Desktop\CRM\InpitsuWeb\Inpitsu.Repositories\bin\Debug\net6.0\Inpitsu.Repositories.runtimeconfig.json
+C:\Users\a.zakarin\Desktop\CRM\InpitsuWeb\Inpitsu.Repositories\bin\Debug\net6.0\Inpitsu.Repositories.dll
+C:\Users\a.zakarin\Desktop\CRM\InpitsuWeb\Inpitsu.Repositories\bin\Debug\net6.0\ref\Inpitsu.Repositories.dll
+C:\Users\a.zakarin\Desktop\CRM\InpitsuWeb\Inpitsu.Repositories\bin\Debug\net6.0\Inpitsu.Repositories.pdb
+C:\Users\a.zakarin\Desktop\CRM\InpitsuWeb\Inpitsu.Repositories\obj\Debug\net6.0\Inpitsu.Repositories.csproj.AssemblyReference.cache
+C:\Users\a.zakarin\Desktop\CRM\InpitsuWeb\Inpitsu.Repositories\obj\Debug\net6.0\Inpitsu.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.zakarin\Desktop\CRM\InpitsuWeb\Inpitsu.Repositories\obj\Debug\net6.0\Inpitsu.Repositories.AssemblyInfoInputs.cache
+C:\Users\a.zakarin\Desktop\CRM\InpitsuWeb\Inpitsu.Repositories\obj\Debug\net6.0\Inpitsu.Repositories.AssemblyInfo.cs
+C:\Users\a.zakarin\Desktop\CRM\InpitsuWeb\Inpitsu.Repositories\obj\Debug\net6.0\Inpitsu.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\a.zakarin\Desktop\CRM\InpitsuWeb\Inpitsu.Repositories\obj\Debug\net6.0\Inpitsu.Repositories.dll
+C:\Users\a.zakarin\Desktop\CRM\InpitsuWeb\Inpitsu.Repositories\obj\Debug\net6.0\ref\Inpitsu.Repositories.dll
+C:\Users\a.zakarin\Desktop\CRM\InpitsuWeb\Inpitsu.Repositories\obj\Debug\net6.0\Inpitsu.Repositories.pdb
+C:\Users\a.zakarin\Desktop\CRM\InpitsuWeb\Inpitsu.Repositories\obj\Debug\net6.0\Inpitsu.Repositories.genruntimeconfig.cache
+C:\Users\a.zakarin\Desktop\CRM\InpitsuWeb\Inpitsu.Repositories\bin\Debug\net6.0\Inpitsu.Data.dll
+C:\Users\a.zakarin\Desktop\CRM\InpitsuWeb\Inpitsu.Repositories\bin\Debug\net6.0\Inpitsu.Filters.dll
+C:\Users\a.zakarin\Desktop\CRM\InpitsuWeb\Inpitsu.Repositories\bin\Debug\net6.0\Inpitsu.Data.pdb
+C:\Users\a.zakarin\Desktop\CRM\InpitsuWeb\Inpitsu.Repositories\bin\Debug\net6.0\Inpitsu.Filters.pdb
+C:\Users\a.zakarin\Desktop\CRM\InpitsuWeb\Inpitsu.Repositories\obj\Debug\net6.0\Inpitsu.Repositories.csproj.CopyComplete
+C:\Users\a.zakarin\Desktop\мой сирэмэ\InpitsuWeb\Inpitsu.Repositories\bin\Debug\net6.0\Inpitsu.Repositories.deps.json
+C:\Users\a.zakarin\Desktop\мой сирэмэ\InpitsuWeb\Inpitsu.Repositories\bin\Debug\net6.0\Inpitsu.Repositories.runtimeconfig.json
+C:\Users\a.zakarin\Desktop\мой сирэмэ\InpitsuWeb\Inpitsu.Repositories\bin\Debug\net6.0\Inpitsu.Repositories.dll
+C:\Users\a.zakarin\Desktop\мой сирэмэ\InpitsuWeb\Inpitsu.Repositories\bin\Debug\net6.0\ref\Inpitsu.Repositories.dll
+C:\Users\a.zakarin\Desktop\мой сирэмэ\InpitsuWeb\Inpitsu.Repositories\bin\Debug\net6.0\Inpitsu.Repositories.pdb
+C:\Users\a.zakarin\Desktop\мой сирэмэ\InpitsuWeb\Inpitsu.Repositories\bin\Debug\net6.0\Inpitsu.Data.dll
+C:\Users\a.zakarin\Desktop\мой сирэмэ\InpitsuWeb\Inpitsu.Repositories\bin\Debug\net6.0\Inpitsu.Filters.dll
+C:\Users\a.zakarin\Desktop\мой сирэмэ\InpitsuWeb\Inpitsu.Repositories\bin\Debug\net6.0\Inpitsu.Data.pdb
+C:\Users\a.zakarin\Desktop\мой сирэмэ\InpitsuWeb\Inpitsu.Repositories\bin\Debug\net6.0\Inpitsu.Filters.pdb
+C:\Users\a.zakarin\Desktop\мой сирэмэ\InpitsuWeb\Inpitsu.Repositories\obj\Debug\net6.0\Inpitsu.Repositories.csproj.AssemblyReference.cache
+C:\Users\a.zakarin\Desktop\мой сирэмэ\InpitsuWeb\Inpitsu.Repositories\obj\Debug\net6.0\Inpitsu.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.zakarin\Desktop\мой сирэмэ\InpitsuWeb\Inpitsu.Repositories\obj\Debug\net6.0\Inpitsu.Repositories.AssemblyInfoInputs.cache
+C:\Users\a.zakarin\Desktop\мой сирэмэ\InpitsuWeb\Inpitsu.Repositories\obj\Debug\net6.0\Inpitsu.Repositories.AssemblyInfo.cs
+C:\Users\a.zakarin\Desktop\мой сирэмэ\InpitsuWeb\Inpitsu.Repositories\obj\Debug\net6.0\Inpitsu.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\a.zakarin\Desktop\мой сирэмэ\InpitsuWeb\Inpitsu.Repositories\obj\Debug\net6.0\Inpitsu.Repositories.csproj.CopyComplete
+C:\Users\a.zakarin\Desktop\мой сирэмэ\InpitsuWeb\Inpitsu.Repositories\obj\Debug\net6.0\Inpitsu.Repositories.dll
+C:\Users\a.zakarin\Desktop\мой сирэмэ\InpitsuWeb\Inpitsu.Repositories\obj\Debug\net6.0\ref\Inpitsu.Repositories.dll
+C:\Users\a.zakarin\Desktop\мой сирэмэ\InpitsuWeb\Inpitsu.Repositories\obj\Debug\net6.0\Inpitsu.Repositories.pdb
+C:\Users\a.zakarin\Desktop\мой сирэмэ\InpitsuWeb\Inpitsu.Repositories\obj\Debug\net6.0\Inpitsu.Repositories.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "NgJLpmpeb5SNbpFUZrLEYxRWkEFYFEpBJKMrwRmBH4lap+4JPteplqq7bgPK2w4zQeGT+M/h9KGE+ws//pjeYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a.zakarin\\Desktop\\мой сирэмэ\\InpitsuWeb\\Inpitsu.Logger\\Inpitsu.Logger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a.zakarin\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\a.zakarin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\a.zakarin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\a.zakarin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\a.zakarin\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\a.zakarin\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\a.zakarin\\.nuget\\packages\\nlog\\5.0.0\\nlog.5.0.0.nupkg.sha512",
+    "C:\\Users\\a.zakarin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
